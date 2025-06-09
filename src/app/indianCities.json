@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "title": "Delhi City Tour",
+    "imgURl": "/cityes/Delhi-City-Tour.webp",
+    "location": "Delhi, India",
+    "duration": "2 Nights 3 Days",
+    "description": "Explore India's capital city with a mix of heritage, politics, and street life. Visit monuments, taste street food, and experience local culture.",
+    "summary": [
+      "Visit Red Fort and Jama Masjid",
+      "Explore India Gate and Parliament",
+      "Shopping at Chandni Chowk and Connaught Place"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Mumbai Explorer",
+    "imgURl": "/cityes/Mumbai-Explorer.webp",
+    "location": "Mumbai, Maharashtra",
+    "duration": "3 Nights 4 Days",
+    "description": "Discover the city of dreams, known for Bollywood, beaches, and bustling nightlife.",
+    "summary": [
+      "Gateway of India and Marine Drive",
+      "Elephanta Caves and Juhu Beach",
+      "Colaba Causeway and Local Markets"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Bangalore Garden City",
+    "imgURl": "/cityes/Bangalore-Garden-City.jpg",
+    "location": "Bangalore, Karnataka",
+    "duration": "2 Nights 3 Days",
+    "description": "Experience the green tech hub of India with gardens, palaces, and a vibrant café culture.",
+    "summary": [
+      "Lalbagh Botanical Garden Tour",
+      "Visit Bangalore Palace",
+      "Explore Local Pubs and Cafés"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Hyderabad Heritage Tour",
+    "imgURl": "/cityes/Hyderabad-Heritage.jpg",
+    "location": "Hyderabad, Telangana",
+    "duration": "3 Nights 4 Days",
+    "description": "Dive into Nizami history, iconic biryani, and IT charm in the City of Pearls.",
+    "summary": [
+      "Charminar and Chowmahalla Palace",
+      "Golconda Fort and Ramoji Film City",
+      "Hussain Sagar Lake and Local Shopping"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Kolkata Culture Walk",
+    "imgURl": "/cityes/Kolkata-Culture-Walk.webp",
+    "location": "Kolkata, West Bengal",
+    "duration": "2 Nights 3 Days",
+    "description": "Soak in the art, music, literature, and colonial charm of India’s cultural capital.",
+    "summary": [
+      "Victoria Memorial and Howrah Bridge",
+      "Dakshineswar Temple and College Street",
+      "Tram Ride and Street Food Exploration"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Chennai Coastal Trail",
+    "imgURl": "/cityes/Chennai-Coastal-Trail.jfif",
+    "location": "Chennai, Tamil Nadu",
+    "duration": "2 Nights 3 Days",
+    "description": "Experience South India's tradition, temples, and Marina Beach vibes.",
+    "summary": [
+      "Kapaleeshwarar Temple and San Thome Church",
+      "Marina Beach and Local Markets",
+      "Mahabalipuram Day Excursion"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Ahmedabad Heritage Ride",
+    "imgURl": "/cityes/Ahmedabad-Heritage-Ride.avif",
+    "location": "Ahmedabad, Gujarat",
+    "duration": "2 Nights 3 Days",
+    "description": "Discover the rich history of Gujarat’s capital — full of stepwells, ashrams, and food.",
+    "summary": [
+      "Sabarmati Ashram and Adalaj Stepwell",
+      "Akshardham Temple Visit",
+      "Night Food Market at Manek Chowk"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Jaipur Pink City Tour",
+    "imgURl": "/cityes/Jaipur-Pink-City-Tour.webp",
+    "location": "Jaipur, Rajasthan",
+    "duration": "3 Nights 4 Days",
+    "description": "Feel royal in the land of forts, palaces, and Rajasthani culture.",
+    "summary": [
+      "Amber Fort and Hawa Mahal",
+      "City Palace and Jantar Mantar",
+      "Local Bazaar Shopping and Rajasthani Cuisine"
+    ]
+  }
+]

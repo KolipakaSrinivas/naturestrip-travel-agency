@@ -1,0 +1,105 @@
+[
+  {
+    "id": 0,
+    "title": "Kartik Swami Temple",
+    "imgURl": "/pakages/Kartik-Swami.jpg",
+    "location": "Varanasi, India",
+    "duration": "2 Nights 3 Days",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde laboriosam beatae esse? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde laboriosam beatae esse?",
+    "summary": [
+      "Haridwar to Rudraprayag – The Gateway to the Himalayas",
+      "Rudraprayag to Kartik Swami Temple – A Divine Trek",
+      "Rudraprayag to Haridwar – The Journey Back"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Kedarnath Yatra",
+    "imgURl": "/pakages/Kedarnath-Yatra.webp",
+    "location": "Kedarnath, Uttarakhand",
+    "duration": "3 Nights 4 Days",
+    "description": "Experience the holy abode of Lord Shiva nestled in the Himalayas. A trekker's spiritual delight.",
+    "summary": [
+      "Haridwar to Guptkashi – Scenic Drive",
+      "Trek to Kedarnath – Spiritual Adventure",
+      "Return to Haridwar – Devotional Closure"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Golden Temple Visit",
+    "imgURl": "/pakages/Golden-Temple.webp",
+    "location": "Amritsar, Punjab",
+    "duration": "1 Night 2 Days",
+    "description": "Witness the serenity of the Golden Temple and the patriotic vibes at the Wagah Border.",
+    "summary": [
+      "Arrival at Amritsar – Check-in and Local Tour",
+      "Golden Temple and Wagah Border – Spiritual and Patriotic Tour"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Rameswaram Spiritual Tour",
+    "imgURl": "/pakages/Rameswaram-Spiritual.webp",
+    "location": "Rameswaram, Tamil Nadu",
+    "duration": "3 Nights 4 Days",
+    "description": "Explore one of the Char Dhams of Hinduism located in southern India, connected to Ramayana.",
+    "summary": [
+      "Arrival at Rameswaram – Visit Temple and Beaches",
+      "Local Temples and Dhanushkodi",
+      "Departure – With Memories"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Bodh Gaya Pilgrimage",
+    "imgURl": "/pakages/Bodh-Gaya.webp",
+    "location": "Bodh Gaya, Bihar",
+    "duration": "2 Nights 3 Days",
+    "description": "Walk the sacred grounds where Buddha attained enlightenment. A peaceful retreat.",
+    "summary": [
+      "Arrival at Gaya – Visit Mahabodhi Temple",
+      "Local Buddhist Sites Tour",
+      "Departure with Inner Peace"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Shirdi Sai Baba Darshan",
+    "imgURl": "/pakages/Shirdi-Sai-Baba-Darshan.webp",
+    "location": "Shirdi, Maharashtra",
+    "duration": "2 Nights 3 Days",
+    "description": "A devotional journey to seek the blessings of Sai Baba and experience spiritual calm.",
+    "summary": [
+      "Arrival in Shirdi – Sai Baba Samadhi Mandir Visit",
+      "Shani Shingnapur Excursion",
+      "Return Journey"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Vaishno Devi Trek",
+    "imgURl": "/pakages/Vaishno-Devi-Trek.webp",
+    "location": "Katra, Jammu & Kashmir",
+    "duration": "3 Nights 4 Days",
+    "description": "Embark on a divine journey to the cave temple of Mata Vaishno Devi.",
+    "summary": [
+      "Jammu to Katra – Journey Begins",
+      "Trek to Vaishno Devi Shrine",
+      "Return and Rest"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Jagannath Puri Tour",
+    "imgURl": "/pakages/Jagannath-Puri.webp",
+    "location": "Puri, Odisha",
+    "duration": "3 Nights 4 Days",
+    "description": "Explore the heritage and spirituality of Puri with its grand Jagannath Temple and beaches.",
+    "summary": [
+      "Arrival in Puri – Jagannath Darshan",
+      "Konark Sun Temple and Beaches",
+      "Return with Blessings"
+    ]
+  }
+]
